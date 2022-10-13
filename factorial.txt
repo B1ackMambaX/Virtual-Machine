@@ -1,0 +1,1 @@
+set a 1 set b 1 jsin n label startCalc mult b a b add a 1 a compare a n goto startCalc jsout b

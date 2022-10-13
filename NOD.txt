@@ -1,0 +1,1 @@
+jsin a jsin b label startCalc notEquals a b sub a b goto startCalc jsout a
